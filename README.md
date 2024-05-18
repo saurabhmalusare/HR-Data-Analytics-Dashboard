@@ -23,3 +23,7 @@ Key Takeaways:
 🚀 Through this project, I learned to tell data-driven stories with an aesthetically pleasing dashboard. I gained a deep understanding of HR requirements based on data, developed expertise in creating measures and matrices using DAX, enhanced analytical and visualization thinking skills, and improved knowledge in selecting appropriate chart types for visualization. Additionally, I mastered problem-solving through effective research, acquired advanced dashboarding techniques, deepened my understanding of the HR domain, and boosted productivity by efficiently customizing and reusing visuals. 
 
 hashtag#HRAnalytics hashtag#PowerBI hashtag#DataAnalysis hashtag#Dashboarding hashtag#DataVisualization hashtag#HRMetrics
+
+![Light_HR_Analytics_Dashboard](https://github.com/saurabhmalusare/HR-Data-Analytics-Dashboard/assets/78732697/f1365202-6bbf-4226-a43a-38e27c09d108)
+
+![Dark_HR_Analytics_Dashboard](https://github.com/saurabhmalusare/HR-Data-Analytics-Dashboard/assets/78732697/9726ba6f-bbe9-4e79-8d72-df4b7a1bc4eb)
